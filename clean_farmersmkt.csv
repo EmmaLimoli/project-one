@@ -1,0 +1,98 @@
+FMID,MarketName,County,State,zip,Longitude,Latitude,Credit,WIC,WICcash,SFMNP,SNAP,Organic,Cheese,Eggs,Seafood,Herbs,Vegetables,Meat,Nuts,Poultry,Beans,Fruits,Grains,updateTime
+1018965,61st Street Farmers Market,Cook,Illinois,60637,-87.590591,41.784081,Y,N,N,N,Y,-,Y,Y,Y,Y,Y,N,Y,N,N,Y,N,2/23/2018 16:18
+1009792,Alsip Farmers Market,Cook,Illinois,60803,-87.727806,41.664913,Y,N,N,N,Y,Y,Y,N,N,Y,Y,N,N,N,N,Y,N,4/4/2014 19:03
+1003516,Andersonville Farmers Market,Cook,Illinois,60640,-87.668602,41.981747,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,6/7/2020 18:00
+1003571,Arlington Heights Farmers Market,Cook,Illinois,60004,-87.980797,42.085999,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1002490,Ashburn (Chicago) Farmers Market,Cook,Illinois,60629,-87.625999,41.885101,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1002491,Austin (Chicago) Farmers Market,Cook,Illinois,60644,-87.625999,41.885101,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1002269,Barrington Farmers Market,Cook,Illinois,60010,-88.134804,42.152401,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,May 21 2010  9:57PM
+1006441,Bartlett Farmers Market,Cook,Illinois,60103,-88.184601,41.989899,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,Apr 16 2010  9:57AM
+1010832,Berwyn Township Farmer's Market,Cook,Illinois,60402,-87.788292,41.843311,Y,N,N,N,N,-,Y,Y,N,N,Y,Y,N,N,N,Y,N,2/20/2015 9:45
+1006203,Bronzeville (Chicago) Farmers Market,Cook,Illinois,60602,-87.626701,41.844799,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1003988,Brookfield Farmers Market,Cook,Illinois,60513,-87.84114100000001,41.823078,Y,N,N,N,N,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,N,5/12/2014 14:24
+1000561,Chicago Heights Corner Market,Cook,Illinois,60411,-87.646179,41.520171999999995,N,N,N,N,N,-,N,N,N,Y,Y,N,N,N,N,Y,N,3/31/2014 19:48
+1012379,Chicago-Nettelhorst French Market,Cook,Illinois,,-87.64456899999999,41.941208,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,7/9/2016 16:56
+1006204,Conuco Farmers Market,Cook,Illinois,60622,-87.692596,41.903,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1005766,Country Club Hills Farmers Market,Cook,Illinois,60478,-87.716202,41.557201,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1008650,Crisp! Catholic Charities,Cook,Illinois,60654,-87.63239300000001,41.895206,Y,N,N,N,Y,-,N,N,N,N,Y,N,N,N,N,Y,N,3/31/2014 16:31
+1008666,Crisp! Mobile Farmers Market,Cook,Illinois,60654,-87.632378,41.895176,Y,N,N,N,Y,-,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,4/1/2014 13:54
+1002493,Daley Plaza Chicago Farmers Market,Cook,Illinois,60602,-87.625999,41.885101,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1010769,Downtown Evanston Farmers' Market,Cook,Illinois,60201,-87.68611899999999,42.050911,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,1/12/2015 11:48
+1018124,Eden Place Community Farmers Market,Cook,Illinois,60609,-87.634323,41.804768,Y,Y,N,Y,Y,N,N,Y,N,N,Y,N,N,N,N,N,N,6/20/2017 13:20
+1011540,Edgewater Farmers Market,Cook,Illinois,60660,-87.659973,41.989799,Y,N,N,N,N,-,Y,N,N,N,Y,N,N,N,N,Y,N,7/28/2015 18:05
+1010508,Eli's Cheesecake and Wright College Farmer's Market,Cook,Illinois,60634,-87.79628000000001,41.959095,Y,N,N,N,N,Y,N,N,N,N,Y,N,N,Y,N,Y,N,8/18/2014 9:37
+1011922,Elk Grove Farmers Market,Cook,Illinois,60007,-88.007828,42.002907,Y,N,N,N,N,-,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,5/4/2016 17:10
+1003241,Evergreen Park Farmers Market,Cook,Illinois,60805,-87.702202,41.731602,N,N,N,N,N,-,Y,N,N,Y,Y,N,Y,N,N,N,N,4/13/2011 16:06
+1010667,"Faith in Place Winter Farmers Market - Augustana Lutheran Church of Hyde Park, Chicago",Cook,Illinois,60637,-87.597382,41.79488,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,1/5/2016 15:20
+1011719,Faith in Place Winter Farmers Market - Berry Memorial United Methodist Church,Cook,Illinois,60625,-87.68433399999999,41.968132000000004,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,Y,10/26/2015 15:49
+1010668,"Faith in Place Winter Farmers Market - Beverly Unitarian Church, Chicago",Cook,Illinois,60643,-87.67130999999999,41.70686,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,10/21/2015 14:44
+1011725,Faith in Place Winter Farmers Market - Congregational Church of Jefferson Park,Cook,Illinois,60630,-87.760773,41.966537,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,Y,10/28/2015 11:56
+1010670,Faith in Place Winter Farmers Market - Countryside Church Unitarian Universalist,Cook,Illinois,60067,-88.0476,42.128914,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,10/28/2015 11:30
+1011724,Faith in Place Winter Farmers Market - DuPage Unitarian Universalist Church,Cook,Illinois,60563,-88.118477,41.804424,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,Y,10/28/2015 11:51
+1010671,"Faith in Place Winter Farmers Market - Euclid Avenue United Methodist Church, Oak Park",Cook,Illinois,60302,-87.79306,41.881195,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,10/26/2015 13:35
+1011726,Faith in Place Winter Farmers Market - Good Shepherd Lutheran Church - Oak Park,Cook,Illinois,60302,-87.789932,41.883228,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,Y,10/28/2015 12:03
+1011722,Faith in Place Winter Farmers Market - Greenstone United Methodist Church - Pullman,Cook,Illinois,60628,-87.608337,41.690715999999995,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,Y,10/28/2015 11:31
+1010666,"Faith in Place Winter Farmers Market - Our Saviour's Lutheran Church, Arlington Heights",Cook,Illinois,60004,-87.981102,42.098656,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,10/26/2015 13:59
+1010664,"Faith in Place Winter Farmers Market - St. Luke's Lutheran Church, Park Ridge",Cook,Illinois,60068,-87.829033,42.013973,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,10/26/2015 13:51
+1011727,Faith in Place Winter Farmers Market - St. Stephen's Lutheran Church - Chicago,Cook,Illinois,60068,-87.584824,41.740974,Y,N,N,N,Y,-,Y,N,Y,Y,Y,Y,N,Y,N,Y,Y,1/5/2016 15:54
+1010665,"Faith in Place Winter Farmers Market - Temple Sholom, Chicago",Cook,Illinois,60657,-87.642014,41.946106,Y,N,N,N,Y,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,1/5/2016 16:08
+1004816,Farmer Fridays at Uncommon Ground,Cook,Illinois,60660,-87.66570300000001,41.997799,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,May 21 2010  2:34PM
+1002494,Federal Plaza (Chicago) Farmers Market,Cook,Illinois,60602,-87.629402,41.879002,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1005082,Flossmoor Farmers Market,Cook,Illinois,60422,-87.67865,41.543751,Y,N,N,N,N,N,Y,Y,N,Y,Y,N,N,N,N,Y,N,3/31/2014 15:52
+1002773,Garfield Park (Chicago) Farmers Market,Cook,Illinois,60602,-87.7164,41.886299,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1002495,Gately/Pullman (Chicago) Farmers Market,Cook,Illinois,60602,-87.624397,41.8815,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1012381,Glencoe French Market,Cook,Illinois,,-87.758362,42.133953000000005,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,7/9/2016 17:08
+1004662,Glenview Farmers Market,Cook,Illinois,60025,-87.7808,42.081902,N,N,N,N,Y,N,Y,Y,N,Y,Y,N,N,Y,N,Y,Y,3/31/2014 15:51
+1019414,Glenwood Sunday Market,Cook,Illinois,60626,-87.666351,42.007870000000004,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,N,3/6/2019 13:01
+1011775,Green City Market - Indoor,Cook,Illinois,60614,-87.63518499999999,41.926784999999995,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,2/4/2016 18:22
+1011774,Green City Market - Outdoor,Cook,Illinois,60614,-87.634109,41.915276,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,2/4/2016 18:23
+1002686,Hines Veterans Hospital Farmers Market,Cook,Illinois,60141,-87.837616,41.846149,Y,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Y,N,6/27/2016 13:00
+1010114,Home Grown Cow - Chicago,Cook,Illinois,,-87.629799,41.878113,Y,N,N,N,N,Y,Y,N,Y,N,N,Y,N,Y,N,N,N,5/7/2014 1:21
+1009663,Homewood Farmers Market,Cook,Illinois,60430,-87.666763,41.563148,Y,N,N,N,N,-,Y,Y,N,Y,Y,N,N,N,N,Y,N,3/19/2014 11:58
+1002496,Hyde Park (Chicago) Farmers Market,Cook,Illinois,60602,-87.604599,41.800598,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1011669,IMAN's Fresh Beats & Eats Farmers' Market,Cook,Illinois,60629,-87.692665,41.779263,Y,N,N,N,Y,-,Y,Y,N,Y,Y,N,Y,N,Y,Y,N,8/14/2015 15:32
+1002236,Independence Park Farmers Market,Cook,Illinois,60618,-87.725037,41.952690000000004,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,Y,N,4/1/2014 18:58
+1011114,La Grange Farmers Market,Cook,Illinois,60525,-87.869621,41.814133,Y,N,N,N,N,-,Y,Y,Y,Y,Y,Y,N,Y,N,Y,N,7/12/2016 16:17
+1002181,Lan-Oak Park District Farmer's Market,Cook,Illinois,60438,-87.53388199999999,41.56456,N,N,N,N,N,-,Y,N,N,Y,Y,N,N,N,N,N,N,5/18/2012 16:11
+1002502,Lawndale (Chicago) Farmers Market,Cook,Illinois,60623,-87.723801,41.877399,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1002497,Lincoln Park (Chicago) Farmers Market,Cook,Illinois,60602,-87.670898,41.897099,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1002498,Lincoln Square Chicago Farmers Market,Cook,Illinois,60602,-87.805397,41.989101,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1018817,Local Food Market,Cook,Minnesota,55604,-90.33699,47.756088,Y,N,N,N,N,-,N,Y,N,Y,Y,N,N,N,N,Y,N,8/10/2017 11:26
+1010423,Logan Square Farmers Market,Cook,Illinois,60647,-87.704971,41.928249,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,8/5/2014 14:25
+1016820,Low-Line Market at Southport,Cook,Illinois,60657,-87.66423,41.943816999999996,Y,N,N,N,N,-,Y,Y,N,N,Y,Y,N,N,N,Y,N,2/1/2017 16:15
+1016839,Loyola University Chicago Farmers Market,Cook,Illinois,60660,-87.661034,42.001293,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,N,Y,N,Y,N,Y,N,2/23/2017 17:16
+1019368,"Market at the Park - Orland Park, IL",Cook,Illinois,60462,-87.856514,41.631943,Y,N,N,N,N,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,N,1/31/2019 15:10
+1006199,Morgan Park (Chicago) Farmers Market,Cook,Illinois,60602,-87.55439799999999,41.716202,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1011000,Morton Grove Farmers' Market,Cook,Illinois,60053,-87.78173100000001,42.040962,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,3/30/2015 21:46
+1000428,Mt. Prospect Farmers Market,Cook,Illinois,60056,-87.937294,42.066418,Y,N,N,N,N,N,Y,N,Y,N,Y,Y,N,Y,N,Y,N,4/4/2014 9:45
+1002499,North Center (Chicago) Farmers Market,Cook,Illinois,60602,-87.81680300000001,41.840099,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2/19/2012 16:43
+1003694,Northbrook Farmers Market,Cook,Illinois,60062,-87.828659,42.131401000000004,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,6/27/2016 13:18
+1005093,Oak Forest Park District Farmer's Market,Cook,Illinois,60452,-87.737358,41.603962,Y,N,N,N,N,-,N,Y,N,N,Y,Y,N,N,N,Y,N,3/19/2015 12:25
+1004153,Oak Lawn Farmers Market,Cook,Illinois,60453,-87.751488,41.720901,Y,N,N,N,N,-,N,N,N,N,Y,N,Y,N,N,Y,N,3/14/2014 15:02
+1003749,Oak Park Farmers' Market,Cook,Illinois,60302,-87.786789,41.888752000000004,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,3/19/2014 18:15
+1002402,Olde Schaumburg Centre Farmers Market,Cook,Illinois,60193,-88.080292,42.02507,Y,N,N,N,N,-,Y,N,N,Y,Y,Y,N,Y,N,Y,N,3/14/2014 10:40
+1002262,Palatine Farmers' Market,Cook,Illinois,60067,-88.04744699999999,42.113014,Y,N,N,N,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,7/28/2015 10:06
+1018687,Palos Heights Farmer's Market,Cook,Illinois,60463,-87.78312700000001,41.660465,Y,N,N,N,Y,-,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,12/11/2018 15:37
+1001575,Park Ridge Farmers Market,Cook,Illinois,60068,-87.83339699999999,42.010399,Y,N,N,N,N,Y,N,Y,N,Y,Y,Y,Y,Y,N,Y,N,2/27/2015 14:21
+1011696,Plant Chicago Farmers Market ,Cook,Illinois,60609,-87.660583,41.810699,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,Y,N,6/28/2016 15:09
+1003414,Portage Park Farmer's Market,Cook,Illinois,60641,-87.762383,41.953472,Y,N,N,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N,Y,N,6/27/2016 13:23
+1002501,Printer's Row (Chicago) Farmers Market,Cook,Illinois,60602,-87.629204,41.872299,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1002500,Prudential Plaza (Chicago) Farmers Market,Cook,Illinois,60601,-87.604599,41.800598,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1000134,Ridgeville Park District Farmers Market,Cook,Illinois,60202,-87.68519599999999,42.028008,Y,N,N,N,Y,-,N,Y,N,N,Y,N,N,N,N,Y,N,4/3/2014 12:01
+1000194,Riverside Farmers' Market,Cook,Illinois,60546,-87.820107,41.827785,Y,N,N,N,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,6/27/2016 13:53
+1011778,Rolling Meadows City Markets,Cook,Illinois,60008,-88.01617399999999,42.078232,Y,N,N,N,N,N,N,N,Y,Y,Y,Y,Y,N,N,Y,N,7/30/2018 11:10
+1002508,Sears Tower Plaza Farmers Market,Cook,Illinois,60606,-87.6082,41.736599,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1006201,Shore Bank (Chicago) Farmers Market,Cook,Illinois,60602,-87.57599599999999,41.766998,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1012008,South Halsted Neighborhood Farmers Market,Cook,Illinois,60643,-87.643837,41.68504,Y,N,N,N,Y,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,6/14/2016 21:43
+1011017,South Holland's Town Center Market Place,Cook,Illinois,60473,-87.606987,41.600868,Y,N,N,Y,N,Y,N,Y,N,Y,Y,N,N,N,N,Y,N,6/27/2016 14:17
+1002509,Southport Green Market,Cook,Illinois,60613,-87.664902,41.950699,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1004544,Tinley Park Farmers Market,Cook,Illinois,60477,-87.783302,41.575001,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,Apr 16 2010 10:54AM
+1011543,Trinity United Church of Christ Farmer's Market,Cook,Illinois,60628,-87.63588,41.72065,Y,N,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y,N,6/29/2016 14:38
+1002506,Uptown Chicago Farmers Market,Cook,Illinois,60640,-87.658997,41.965401,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
+1019645,"Village of Lemont Farmers Market, ""Tuesday's on Talcott""",Cook,Illinois,60439,-87.998184,41.675518,Y,N,N,N,N,-,N,Y,Y,N,Y,Y,N,Y,N,Y,N,7/29/2019 16:18
+1010577,Village of Park Forest Farmers' Market,Cook,Illinois,60466,-87.680374,41.48423,Y,Y,N,Y,Y,N,Y,Y,N,Y,Y,Y,N,N,N,Y,N,6/27/2016 14:31
+1019156,Village of Skokie Farmers' Market,Cook,Illinois,60077,-87.756752,42.026028000000004,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,7/5/2018 12:47
+1011031,Village of Thornton Market in the Park,Cook,Illinois,60476,-87.61569200000001,41.568497,Y,N,N,Y,N,Y,N,N,N,Y,Y,N,N,N,N,Y,N,4/13/2015 17:35
+1002087,West End Market,Cook,Illinois,60201,-87.699402,42.047901,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,Apr 15 2010  7:52PM
+1016908,West Town Health & Farmers Market,Cook,Illinois,60622,-87.684395,41.90287,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,N,Y,N,8/3/2018 11:00
+1006202,Wicker Park/Bucktown (Chicago) Farmers Market,Cook,Illinois,60602,-87.677399,41.908901,N,N,N,N,N,-,N,N,N,N,N,N,N,N,N,N,N,2009
