@@ -15,5 +15,8 @@ We found that households with low access to grocery stores received food benefit
 
 If we had additional time to research, we would pick four additional cities such as LA, Atlanta, Philadelphia, and Seattle to analyze outside of just Chicago and compare against their urban food deserts to further understand the impact of lack of nutrition on lower income individuals and families across the US. 
 
+#Using the Repo
+The repo includes our data as .csv files as well as Jupyter Notebook files for code. Running Clean_Up.ipynb first creates clean .csv files to be used in Visualization_Analyis1.ipynb. Putting one's individual g_key in api_keys.py file is required to create all of the visualizations, which are then stored in the folder labeled "Images".
+
 
 
